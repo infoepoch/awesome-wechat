@@ -1,5 +1,7 @@
 # 微信小应用资源汇总整理
 
+## 案例
+-[微信小程序示例 - 剪刀石头布](https://github.com/CFETeam/weapp-demo-websocket)
 
 ## 文档
 
