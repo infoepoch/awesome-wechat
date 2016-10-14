@@ -30,6 +30,7 @@
 - [IDE常用快捷键——微信小程序](http://www.jianshu.com/p/8e07b403958e)
 - [微信小程序开发:MINA](http://huaban.com/pins/836246645/zoom/)
 
+
 ## 知乎讨论
 
 - [如何评价 9 月 21 日开始内测的「微信小程序」？](https://www.zhihu.com/question/50874500)
@@ -46,7 +47,31 @@
 - [微信小程序（应用号）是如何通过苹果审核的？](https://www.zhihu.com/question/50879437)
 - [做微信小程序的开发者，需要掌握哪些编程技能？](https://www.zhihu.com/question/50886759)
 
----
+## 开源项目
+- [WeApp](https://github.com/18380435477/WeApp) - 微信小程序版的微信
+- [wechat-weapp-redux-todos](https://github.com/charleyw/wechat-weapp-redux-todos) - 微信小程序集成Redux实现的Todo list
+- [wechat-weapp-gank](https://github.com/lypeer/wechat-weapp-gank) - 微信小程序版Gank客户端
+- [wechat-dribbble](https://github.com/nicesu/wechat-dribbble) - 微信小程序-Dribbble
+- [wechatApp-demo](https://github.com/xwartz/wechatApp-demo) - 微信小程序 DEMO
+- [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack/blob/master/README.md) - 微信小应用资源破解
+- [API](https://github.com/gztchan/wechat-mini-app/tree/master/page/API) - API 文档
+- [weapp-quick](https://github.com/phodal/weapp-quick) - 微信小应用示例代码
+- [weapp-gold](https://github.com/hilongjw/weapp-gold) - 掘金主页 微信小应用示例
+- [weapp-douban](https://github.com/zce/weapp-demo) -  豆瓣电影 微信小程序
+- [wechat-app-zhihudaily](https://github.com/myronliu347/wechat-app-zhihudaily) - 微信小程序版的知乎日报
+- [SmallApp](https://github.com/aidenzou/SmallApp) - 小 Demo，可参考
+- [微信小程序开发 DEMO - 地图定位](https://github.com/giscafer/wechat-weapp-mapdemo)
+- [TCP/IP 长连接服务,支持微信小程序 Websocket](https://github.com/leonguo/fans-server)
+- [微信小程序-v2ex](https://github.com/jectychen/wechat-v2ex/) - 微信小程序版的v2ex
+- [微信小程序](https://github.com/hijiangtao/weapp-newsapp) - 公众号热门文章信息流
+- [teamtoy-mina-demo](https://github.com/easychen/teamtoy-mina-demo) - 一个调用 TeamToy API 的微信小程序 Demo
+- [weapp-snippet-for-sublime-text-2-3](https://github.com/Abbotton/weapp-snippet-for-sublime-text-2-3) - sublime text 2&3 微信小程序 snippet
+- [wxapp-cli](https://github.com/MeCKodo/wxapp-cli) - 微信小程序的脚手架
+- [wxapp-todolist](https://github.com/zhaozhiming/wechat-todolist) - 微信小程序之练手小玩意儿——Todo List
+- [wxapp-2048](https://github.com/jeffche/wechat-app-2048) - 微信小程序之2048小游戏
+- [多人版扫雷，准确地讲，多人版挖黄金]后台代码：https://github.com/jsongo/mime-server 前端代码：https://github.com/jsongo/wx-mime
+- [微天气完整代码](https://github.com/swiftcafex/wechat-weather) 
+- https://github.com/oopsguy/WechatSmallApps[](https://github.com/oopsguy/WechatSmallApps)
 
 感谢 Aufree 的整理：[点击这里](https://github.com/Aufree/awesome-wechat-weapp)
 
