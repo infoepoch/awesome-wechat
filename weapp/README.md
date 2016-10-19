@@ -71,7 +71,7 @@
 - [wxapp-2048](https://github.com/jeffche/wechat-app-2048) - 微信小程序之2048小游戏
 - [多人版扫雷，准确地讲，多人版挖黄金]后台代码：https://github.com/jsongo/mime-server 前端代码：https://github.com/jsongo/wx-mime
 - [微天气完整代码](https://github.com/swiftcafex/wechat-weather) 
-- [豆瓣图书](https://github.com/oopsguy/WechatSmallApps)
+- [豆瓣图书-知乎日报-WechatSmallApps](https://github.com/oopsguy/WechatSmallApps)
 
 感谢 Aufree 的整理：[点击这里](https://github.com/Aufree/awesome-wechat-weapp)
 
