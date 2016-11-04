@@ -72,6 +72,7 @@
 - [多人版扫雷，准确地讲，多人版挖黄金]后台代码：https://github.com/jsongo/mime-server 前端代码：https://github.com/jsongo/wx-mime
 - [微天气完整代码](https://github.com/swiftcafex/wechat-weather) 
 - [豆瓣图书-知乎日报-WechatSmallApps](https://github.com/oopsguy/WechatSmallApps)
+- [知乎--微信小程序](https://github.com/RebeccaHanjw/weapp-wechat-zhihu)
 
 感谢 Aufree 的整理：[点击这里](https://github.com/Aufree/awesome-wechat-weapp)
 
