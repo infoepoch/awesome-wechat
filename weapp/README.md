@@ -13,6 +13,8 @@
 - [视图组件文档](https://mp.weixin.qq.com/debug/wxadoc/dev/component)
 - [常见问题](https://mp.weixin.qq.com/debug/wxadoc/dev/qa/qa.html)
 - [微信 UI/WEB 设计规范标注](http://huaban.com/pins/836246645/zoom/)
+- [微信小程序平台运营规范](https://mp.weixin.qq.com/debug/wxadoc/product/index.html)
+- [微信小程序平台常见拒绝情形](https://mp.weixin.qq.com/debug/wxadoc/product/reject.html)
 
 ## 教程
 
