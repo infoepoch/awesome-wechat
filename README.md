@@ -8,6 +8,8 @@
 
 ## 基础要求
 对基本的【微信公众平台开发者文档】熟练能详。
+## [微信广告](http://ad.weixin.qq.com/guide)
+广告也可以是生活的一部分，我们试图做些改变
 
 ## [微信公众平台开发者文档](http://mp.weixin.qq.com/wiki/home/index.html)
 微信公众平台是运营者通过公众号为微信用户提供资讯和服务的平台，而公众平台开发接口则是提供服务的基础，开发者在公众平台网站中创建公众号、获取接口权限后，可以通过阅读本接口文档来帮助开发。
@@ -71,3 +73,4 @@
 * [微信公众平台小店操作指引](https://mp.weixin.qq.com/cgi-bin/readtemplate?t=news/note-goodshelf-func_tmpl&lang=zh_CN)
 * [微信小店功能服务协议](https://mp.weixin.qq.com/cgi-bin/readtemplate?t=business/agreement_business)
 * [微信公众平台群发规则说明](http://kf.qq.com/faq/120911VrYVrA131025QniAfu.html)
+
