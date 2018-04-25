@@ -49,11 +49,14 @@
 * 开发需要对每个章节熟知
 * 除开发外需要对每个章节熟知
 
-## [微信调试工具](http://blog.qqbrowser.cc/)
+## [微信调试工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)
 支持本地调试微信公众号，远程调试微信网页
 
 ### 考核标准
 * 开发需要对每个功能文档熟知
+
+## [服务直达](https://mp.weixin.qq.com/servicezone/apidocs/html/index.html)
+服务直达是满足微信用户快捷找到服务的搜索功能。
 
 ## 其他文档
 * [微信公众平台服务协议](https://mp.weixin.qq.com/cgi-bin/readtemplate?t=home/agreement_tmpl&type=info&lang=zh_CN)
